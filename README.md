@@ -1,5 +1,7 @@
 # MotoTrackr Privacy Policy
 
+**Related:** [Terms of Use](https://mototrackrdev.github.io/privacy-policy/terms-of-use.html)
+
 **Effective Date:** April 26, 2026
 
 ## Overview
